@@ -2,24 +2,6 @@
 
 This project is part of the ALX Airbnb Database Module. It focuses on designing and building a robust, scalable relational database system for an Airbnb-like application. The tasks encompass end-to-end development of the database, including design, normalization, schema creation, and data population.
 
----
-
-## 📘 Table of Contents
-
-- [About the Project](#about-the-project)
-- [Learning Objectives](#learning-objectives)
-- [Requirements](#requirements)
-- [Key Tasks](#key-tasks)
-  - [Task 1: ER Diagram](#task-1-er-diagram)
-  - [Task 2: Normalization](#task-2-normalization)
-  - [Task 3: SQL Schema](#task-3-sql-schema)
-  - [Task 4: Data Seeding](#task-4-data-seeding)
-- [Best Practices](#best-practices)
-- [How to Run](#how-to-run)
-- [Contributing](#contributing)
-
----
-
 ## 📖 About the Project
 
 This project simulates a production-level database system for a property rental platform, inspired by Airbnb. By completing the tasks, you'll demonstrate your ability to:
